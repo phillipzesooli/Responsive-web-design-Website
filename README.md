@@ -13,8 +13,6 @@ The task is to completely modify/customize this bootstrap project. Use your crea
 
 You can manage to adjust the above points in the website sections.
 
-**Deadline: 11 May**
-
 Should you have questions do not hesitate to contact us. We are open 24/7.
 
 (email: techlead@limelightr.org)
