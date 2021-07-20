@@ -15,4 +15,4 @@ You can manage to adjust the above points in the website sections.
 
 Should you have questions do not hesitate to contact us. We are open 24/7.
 
-(email: techlead@limelightr.org)
+(email: TechLead@LimeLightR.org)
